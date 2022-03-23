@@ -1,4 +1,4 @@
-# California-median-house-price-prediction_TS
+# California Median House Price Prediction 
 
 ## Goal of the Project 
 The goal of this project is to construct a time series analysis and model (univariate or multivariate) for forecasting the monthly median sold price for Jan-Dec 2016.
