@@ -11,5 +11,8 @@ When modeling a time series, it is important to consider multiple modeling metho
 ## Report
 Check it out! [Report](https://github.com/hongjungg666/California-median-house-price-prediction_TS/blob/master/Time%20Series%20Final%20Project%20Report.pdf)
 
+<img src="picture/1.png" width="850">
+
+
 ## Code Notebook
 [Modeling part](https://github.com/hongjungg666/California-median-house-price-prediction_TS/blob/master/House_Prediction.ipynb)
